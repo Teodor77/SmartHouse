@@ -4,5 +4,5 @@
 
 void main()
 {
-	std::cout << "Teo durak";
+	std::cout << "Teo durak2";
 }
